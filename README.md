@@ -1,2 +1,1 @@
-# IoT-smart-home
-IoT project
+This project was done as a school project. The aim of the project is to detect unusual measurements in the environment using temperature, smoke and gyroscope sensors and send this data to a website. Thanks to the LEDs and buzzer in the hardware, the user is notified in case of an unusual measurement. At the same time, this data is sent on the website every second and unusual data is stated on the same website.  Technologies used in the project: Node js Arduino React  Libraries: socket.io express mongoose (for database)  Equipment used: esp32 nodemcu adxl 345 gyroscope MQ-2 gas sensor DHT-11 temperature sensor buzzer green, red and blue led
